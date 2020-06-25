@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/https//MattSowa420.github.io/contactmanager/static/js/main.63ee76a0.chunk.js",
+    "main.js.map": "/https//MattSowa420.github.io/contactmanager/static/js/main.63ee76a0.chunk.js.map",
+    "runtime-main.js": "/https//MattSowa420.github.io/contactmanager/static/js/runtime-main.db5703df.js",
+    "runtime-main.js.map": "/https//MattSowa420.github.io/contactmanager/static/js/runtime-main.db5703df.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/https//MattSowa420.github.io/contactmanager/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9dbf0755.chunk.js": "/https//MattSowa420.github.io/contactmanager/static/js/2.9dbf0755.chunk.js",
+    "static/js/2.9dbf0755.chunk.js.map": "/https//MattSowa420.github.io/contactmanager/static/js/2.9dbf0755.chunk.js.map",
+    "index.html": "/https//MattSowa420.github.io/contactmanager/index.html",
+    "precache-manifest.78a0c55f3182b537a9601c72e593457a.js": "/https//MattSowa420.github.io/contactmanager/precache-manifest.78a0c55f3182b537a9601c72e593457a.js",
+    "service-worker.js": "/https//MattSowa420.github.io/contactmanager/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/https//MattSowa420.github.io/contactmanager/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.9dbf0755.chunk.js.LICENSE.txt": "/https//MattSowa420.github.io/contactmanager/static/js/2.9dbf0755.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db5703df.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9dbf0755.chunk.js",
+    "static/js/main.63ee76a0.chunk.js"
+  ]
+}
